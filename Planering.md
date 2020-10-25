@@ -23,7 +23,7 @@ Exempel på pseudokod:
 ```
 
 Exempel på flödesschema:
-![Flödesschema](./FlödesschemaExempel.PNG)
+![Flödesschema](https://github.com/NiklasHj/ProvningProgrammering1/blob/master/Fl%C3%B6desschemaExempel.png)
 
 #### Övrig Planering
 
