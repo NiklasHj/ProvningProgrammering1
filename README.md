@@ -38,8 +38,7 @@ Uppgiften ska göras **enskilt** och man får vara beredd att i detalj förklara
     * Valfri annan extra funktionalitet (dubbelkolla med mig först).
 
 * Att du har någon typ av visuell representation av spelförloppet, med en gubbe som hängs, genom något av dessa två förslag:
-    * Att du har en textbaserad visuell representation av en gubbe som hängs, kanske som i [detta exempel](https://gist.github.com/chrishorton/8510732aa9a80a03c829b09f12e20d9c). Detta skrivs då ut i konsolen.
-    * *(Svårare)* Att du använder dig av JavaFX eller på något annat sätt gör en grafisk visuell representation, antingen med bilder eller att du ritar upp gubben med former osv. (Jag är inte superhaj på grafik när det gäller programmering längre, så här får ni till största del ta hjälp av Niklas eller internet.) Jag rekommenderar att ni försöker göra detta om ni tror att ni klarar av det, eftersom ni kommer hålla på med grafik i Programmering 2 senare, och detta kan ge er ett försprång där.
+    * Att du har en textbaserad visuell representation av en gubbe som hängs, kanske som i [detta exempel](https://gist.github.com/chrishorton/8510732aa9a80a03c829b09f12e20d9c).       Detta skrivs då ut i konsolen.
     
 #### Deadline
 
